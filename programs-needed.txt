@@ -1,0 +1,17 @@
+chrome
+f.lux
+dropbox
+sublimetext3
+keepass
+spotify
+autohotkey
+chocolatey
+skype
+vlc
+paint.net
+7zip
+
+dev
+    node.js
+    vscode
+    jdk
