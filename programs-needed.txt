@@ -1,17 +1,28 @@
 chrome
 f.lux
 dropbox
-sublimetext3
+sublimetext3?
 keepass
 spotify
-autohotkey
+autohotkey?
 chocolatey
 skype
 vlc
 paint.net
 7zip
+qBittorrent
 
 dev
-    node.js
-    vscode
-    jdk
+x   node.js
+x   vscode
+    
+    java
+        jdk
+        IntelliJ
+        maven
+
+global npm packages
+    typescript
+    tslint
+    grunt
+    bower
