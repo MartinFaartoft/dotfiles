@@ -1,2 +1,3 @@
 alias gs="git status"
-alias home="cd /e/dropbox/code/"
+
+alias az="az.cmd"

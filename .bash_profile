@@ -1,2 +1,3 @@
-source ~/.rsa-unlock
 source ~/.bashrc
+
+cd ~/code
